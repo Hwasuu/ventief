@@ -7,6 +7,10 @@ header{
     justify-content: center;
 }
 
+.hed{
+    padding-right: 69px;
+}
+
 section{
     display: flex ;
     flex-wrap: wrap;
